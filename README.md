@@ -1,1 +1,5 @@
 # Bounded-Deletions-L1-Heavy-Hitter
+
+This is a Python implementation of the CSSS Sketch described in:
+
+Jayaram, Rajesh, and David P. Woodruff. "Data streams with bounded deletions." Proceedings of the 37th ACM SIGMOD-SIGACT-SIGAI Symposium on Principles of Database Systems. 2018.
