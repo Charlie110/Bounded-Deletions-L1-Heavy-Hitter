@@ -1,4 +1,4 @@
-# Bounded-Deletions-L1-Heavy-Hitter
+# Bounded Deletions Model, L1 Frequecy Estimation
 
 This is a simple python implementation with no optimization for the CSSS Sketch described in:
 
